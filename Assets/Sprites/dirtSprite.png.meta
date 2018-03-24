@@ -1,0 +1,465 @@
+fileFormatVersion: 2
+guid: 3610300d5207bbf47aac8264b14af245
+timeCreated: 1478820958
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dirtSprite_0
+    21300002: dirtSprite_1
+    21300004: dirtSprite_2
+    21300006: dirtSprite_3
+    21300008: dirtSprite_4
+    21300010: dirtSprite_5
+    21300012: dirtSprite_6
+    21300014: dirtSprite_7
+    21300016: dirtSprite_8
+    21300018: dirtSprite_9
+    21300020: dirtSprite_10
+    21300022: dirtSprite_11
+    21300024: dirtSprite_12
+    21300026: dirtSprite_13
+    21300028: dirtSprite_14
+    21300030: dirtSprite_15
+    21300032: dirtSprite_16
+    21300034: dirtSprite_17
+    21300036: dirtSprite_18
+    21300038: dirtSprite_19
+    21300040: dirtSprite_20
+    21300042: dirtSprite_21
+    21300044: dirtSprite_22
+    21300046: dirtSprite_23
+    21300048: dirtSprite_24
+    21300050: dirtSprite_25
+    21300052: dirtSprite_26
+    21300054: dirtSprite_27
+    21300056: dirtSprite_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dirtSprite_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 633
+        width: 258
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 633
+        width: 258
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 633
+        width: 260
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_3
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 633
+        width: 264
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_4
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 662
+        width: 258
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_5
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 666
+        width: 258
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_6
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 701
+        width: 258
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_7
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 660
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_8
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 380
+        width: 258
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 633
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 633
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_12
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_13
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 633
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_15
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 633
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_16
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 633
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_17
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 316
+        width: 258
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_18
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 316
+        width: 258
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 258
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_20
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 345
+        width: 258
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_21
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 346
+        width: 258
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 356
+        width: 258
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_23
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 78
+        width: 258
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 258
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 66
+        width: 258
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_26
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 61
+        width: 258
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_27
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 82
+        width: 258
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: dirtSprite_28
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 50
+        width: 258
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
